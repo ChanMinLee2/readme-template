@@ -61,12 +61,10 @@
 <br />
 
 ## 🤔 기술적 이슈와 해결 과정
-- CORS 이슈
+- webSocket 실시간성 화면 렌더링 구현
     - [Axios message: 'Network Error'(CORS 오류)](https://leeseong010.tistory.com/117)
-- api 호출 시 중복되는 헤더 작업 간소화하기
+- 전역 상태 관리
     - [axios interceptor 적용하기](https://leeseong010.tistory.com/133)
-- axios 요청하기
-    - [axios delete 요청 시 body에 data 넣는 방법](https://leeseong010.tistory.com/111)
 
 <br />
 
@@ -74,4 +72,4 @@
 |Backend|Frontend|
 |:---:|:---:|
 | ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
-|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
+|[서정모](https://github.com/yewon-Noh)|[이찬민](https://github.com/SeongHo-C)|
